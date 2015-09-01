@@ -1,0 +1,4 @@
+import(sp)
+import(cluster)
+
+exportMethods(spEllipsoid)
